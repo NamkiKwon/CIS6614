@@ -10,7 +10,7 @@ addons:
     # GitHub project metadata
     # ** specific to your project **
      project:
-       name: NamkiKwon/CIS6614
+       name: CIS6614-2
        version: 1.0
        description: CIS6614
 
